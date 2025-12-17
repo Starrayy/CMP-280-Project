@@ -22,7 +22,11 @@ Details the systems and resources needed for the app to function, as well as how
 
 -- Class Diagram --
 
+A UML diagram that shows the system's classes along with their attributes, methods, and the relationships between them.
+
 -- Use Case Diagram --
+
+A UML diagram that shows how users interact with the system and the relationships use cases have with eachother.
 
 -- Use Case Scenarios --
 
@@ -37,6 +41,8 @@ Visualizes each use case, showing the steps the user takes to give the app input
 Provides a detailed view of the various functions of the app, its classes, methods, attributes, objects, and use cases.
 
 -- Design-Level Class Diagram --
+
+A detailed version of the class diagram that is the base class diagram but with included parameter types and method signatures.
 
 -- Statechart Diagrams --
 
