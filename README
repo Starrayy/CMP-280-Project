@@ -8,13 +8,17 @@ DOCUMENTS
 
 -- Project Plan Document --
 
--- Schedule --
-
 -- System Context Diagram -- 
 
+Details the interactions possible between the app and each party that interacts with it.
+
 -- Schedule --
 
+Details the steps needed to take to develop the system in a timely and organized fashion.
+
 -- System Requirements Document --
+
+Details the systems and resources needed for the app to function, as well as how the features of the app are to be used.
 
 -- Class Diagram --
 
@@ -22,14 +26,24 @@ DOCUMENTS
 
 -- Use Case Scenarios --
 
+Provides detailed descriptions of the individual steps both the user and system take in each use case.
+
 -- System Sequence Diagrams --
 
+Visualizes each use case, showing the steps the user takes to give the app input, as well as the output provided by the app and other related parties.
+
 -- System Design Document --
+
+Provides a detailed view of the various functions of the app, its classes, methods, attributes, objects, and use cases.
 
 -- Design-Level Class Diagram --
 
 -- Statechart Diagrams --
 
+Detail the behavior of objects within the app.
+
 -- Sequence Diagrams --
+
+Details the interactions between the user, app, other parties, as well as any boundaries, controllers, and entities.
 
 --------------
